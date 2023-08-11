@@ -60,14 +60,9 @@
 # x = None
 # x = bool(x)
 # print(x)
-
-name = input('please enter your name :')
-
-print(f'hello my name is {name}')
-print(type(name))
-
-# write a python code  to receive an email from the user
-# - print the length of the email (hint len())
-# - print the domain of the email (gmail.com)
-# - print each odd letter in the email using [start:end:step]
-# - **challenge print the email 3 times in the same line
+#
+# name = input('please enter your name :')
+#
+# print(f'hello my name is {name}')
+# print(type(name))
+#
