@@ -8,6 +8,9 @@ print(sen)
 # print(sen.title())  # title style
 # print(len(sen)) # length of str
 # print(sen.isalpha())  # check if str is letters
+#  print(sen.isdigit())  # check if str is digits 0-9
+#  print(sen.isupper())  # check if str in upper case
+#  print(sen.islower())  # check if str in lower case
 # print(sen.startswith('hothaifa'))
 # print(sen.endswith(' eatable'))
 # print('a' in sen) # check if we have dry in sen
