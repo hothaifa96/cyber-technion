@@ -1,0 +1,17 @@
+1. golden name :
+    is a name with 4 digits at least and have 2 'o' in it
+
+write a python script to recive a name from the user
+until the user write agolden name
+
+2. write a code that recives 2 ips and subnet masks
+'000.000.000.000/00'
+
+- write python code to print whether the ips have the same
+network name
+
+- print all the ips in the first network using while loop
+
+4. write a code thats sum a given number digits using while loop
+15 = 6
+155 = 11
